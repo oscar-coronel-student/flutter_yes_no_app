@@ -19,7 +19,7 @@ class ChatScreen extends StatelessWidget {
             backgroundImage: NetworkImage('https://www.redebrasilatual.com.br/wp-content/uploads/2016/06/8c5f6bad-e9c0-4a51-b5d3-53b839ea16a1.jpeg')
           ),
         ),
-        title: const Text('Mi amor 2'),
+        title: const Text('Mi amor'),
         centerTitle: false,
       ),
       body: _ChatView(),
